@@ -50,6 +50,10 @@ nav ul a li:hover {
     top: 420px;
     border-radius: 7px;
 }
+.experience button:hover {
+    background-color: #EAF7FF;
+    color: #00AFFF;
+}
 .accueil-macron img {
     position: absolute;
     left: 0;
@@ -67,9 +71,14 @@ nav ul a li:hover {
 .presentation-projet h1 {
     color: #00AFFF;
     font-style: italic;
+    padding: 30px 40px 12px 40px;
+
 }
 .presentation-projet p {
-    padding: 40px 40px 12px 40px;
+    padding: 30px 40px 12px 40px;
+}
+.presentation-projet img {
+    padding: 30px 40px 12px 40px;
 }
 .presentation-projet button {
     background-color: #00AFFF;
@@ -82,6 +91,10 @@ nav ul a li:hover {
 	cursor: pointer;
     color: white;
     border-radius: 7px;
+}
+.presentation-projet button:hover {
+    background-color: #EAF7FF;
+    color: #00AFFF;
 }
 footer {
     background-color: #00AFFF;
