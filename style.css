@@ -66,6 +66,7 @@ nav ul a li:hover {
 }
 .presentation-projet h1 {
     color: #00AFFF;
+    font-style: italic;
 }
 .presentation-projet p {
     padding: 40px 40px 12px 40px;
