@@ -45,7 +45,7 @@ nav ul a li:hover {
     padding: 12px 40px 12px 40px;
 	cursor: pointer;
     color: white;
-    position: absolute;
+    position: relative;
     left: 550px;
     top: 420px;
     border-radius: 7px;
@@ -57,7 +57,7 @@ nav ul a li:hover {
 .accueil-macron img {
     position: absolute;
     left: 0;
-    top: 300px;
+    top: 350px;
     border-radius: 7px;
 }
 .presentation-projet {
