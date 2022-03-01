@@ -3,13 +3,19 @@ h1 {
     color: #00AFFF;
     font-weight: bold;
     font-style: italic;
+    background-color: #EAF7FF;
+    padding-top: 80px;
+    margin: 0 ;
 }
 .twitter_logo {
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     position: absolute;
     top: 20px;
     right: 20px;
+    background-color: white;
+    border-radius: 10px;
+
 }
 div {
     margin-bottom: 20px;
@@ -17,4 +23,12 @@ div {
     justify-content: space-between;
     margin-left: 100px;
     margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+footer {
+    background-color: #00AFFF;
+    padding: 30px 40px 12px 40px;
+    text-align: right;
+    color: white;
 }
