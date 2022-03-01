@@ -91,6 +91,7 @@ nav ul a li:hover {
 	cursor: pointer;
     color: white;
     border-radius: 7px;
+    margin-bottom: 30px;
 }
 .presentation-projet button:hover {
     background-color: #EAF7FF;
